@@ -48,13 +48,7 @@ solicitados en la Actividad 4. Todos los ejercicios se resuelven mediante interf
 - Casos de uso: [casos_uso_6_8_archivo.png](casos_uso_6_8_archivo.png)
 
 
-\`\`\`bash
-python3 principal_excepciones.py
-python3 principal_vendedor.py
-python3 principal_calculos.py
-python3 principal_equipo.py
-python3 principal_archivo.py
-\`\`\`
+
 
 ## Documento de entrega
 
