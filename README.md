@@ -47,10 +47,6 @@ solicitados en la Actividad 4. Todos los ejercicios se resuelven mediante interf
 - Diagrama de clase: [clases_6_8_archivo.png](clases_6_8_archivo.png)
 - Casos de uso: [casos_uso_6_8_archivo.png](casos_uso_6_8_archivo.png)
 
-## Cómo ejecutar
-
-Se necesita Python 3 con tkinter (viene incluido en el instalador oficial de Python para Windows y macOS).
-Cada ejercicio se ejecuta desde su archivo principal:
 
 \`\`\`bash
 python3 principal_excepciones.py
@@ -60,10 +56,8 @@ python3 principal_equipo.py
 python3 principal_archivo.py
 \`\`\`
 
-El archivo `prueba.txt` debe estar en la misma carpeta que los archivos `.py` (lo usa el ejercicio 6.8).
-
 ## Documento de entrega
 
-El archivo `Actividad4_POO_Python.pdf`, en la raíz del repositorio, contiene la portada, el código fuente,
+El archivo `Actividad4_POO_Python.pdf`, contiene la portada, el código fuente,
 las imágenes de la interfaz de usuario, los diagramas de clases, los casos de uso y los enlaces de GitHub
 de cada ejercicio.
