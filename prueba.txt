@@ -1,0 +1,5 @@
+Programación Orientada a Objetos
+Universidad Nacional de Colombia
+Actividad 4 - Lectura de archivos
+Este archivo se lee línea por línea.
+Fin del archivo.
